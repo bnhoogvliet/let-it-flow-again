@@ -1,0 +1,51 @@
+# SITE SETUP
+# Guide: https://docs.hugoblox.com/tutorial/
+# Documentation: https://docs.hugoblox.com/
+# This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
+
+# Appearance
+appearance:
+  mode: light
+  color: green
+
+# SEO
+marketing:
+  seo:
+    site_type: LocalBusiness
+    local_business_type: 'ProfessionalService'
+    org_name: 'Let it Flow Again'
+    description: 'NEI Therapie'
+  analytics:
+    google_analytics: ''
+    baidu_tongji: ''
+    plausible: ''
+    fathom: ''
+    pirsch: ''
+  verification:
+    google: ''
+    baidu: ''
+
+# Site header
+header:
+  navbar:
+    enable: true
+    blox: "navbar"
+    align: "center"
+    fixed_to_top: true
+    logo:
+      text: "Let It Flow Again"
+      # Logo filename in `assets/media/` folder
+      filename: "logo.svg"
+    show_search: false
+    show_theme_chooser: true
+    highlight_active_link: true
+
+# Site footer
+footer:
+  copyright:
+    notice: '© {year} Let It Flow Again'
+
+# Localization
+locale:
+  date_format: 'Jan 2, 2006'
+  time_format: '3:04 PM'

@@ -1,0 +1,38 @@
+# Navigation Links
+#   To link a page section, specify the URL as a hash `/#` followed by the `id` of the section.
+#   The `weight` parameter defines the order that the links will appear in.
+
+main:
+  - name: Wat is NEI
+    url: /wat-is-nei
+    weight: 10
+  - name: Wie ben ik
+    url: /wie-ben-ik
+    weight: 20   
+  - name: Aanbod
+    weight: 30
+    url: /aanbod
+  - name: Ervaringen
+    url: /ervaringen
+    weight: 40
+  - name: Contact
+    url: /contact
+    weight: 50
+   
+
+# main:
+#   - name: Home
+#     url: /#top
+#     weight: 10
+#   - name: Features
+#     url: /#features
+#     weight: 20
+#   - name: Solutions
+#     url: /#solutions
+#     weight: 30
+#   - name: Resources
+#     weight: 40
+#     hasChildren: true
+#   - parent: Resources
+#     name: Blog
+#     url: blog/
