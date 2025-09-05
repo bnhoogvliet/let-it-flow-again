@@ -40,7 +40,6 @@ sections:
         url: /contact
     design:
       background:
-        color: "blue-600"
         text_color_light: true
       spacing:
         padding: ["6", "6", "6", "6"]                   

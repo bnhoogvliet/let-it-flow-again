@@ -6,7 +6,7 @@
 # Appearance
 appearance:
   mode: light
-  color: green
+  color: mustard
 
 # SEO
 marketing:
@@ -37,7 +37,7 @@ header:
       # Logo filename in `assets/media/` folder
       filename: "logo.svg"
     show_search: false
-    show_theme_chooser: true
+    show_theme_chooser: false
     highlight_active_link: true
 
 # Site footer

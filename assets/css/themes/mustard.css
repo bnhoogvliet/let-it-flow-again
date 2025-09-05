@@ -1,0 +1,14 @@
+/* Hugo Blox color theme: mustard */
+:root {
+  --color-primary-50: 255 250 240;   /* very light, almost cream */
+  --color-primary-100: 253 245 225;
+  --color-primary-200: 250 235 195;
+  --color-primary-300: 245 220 160;
+  --color-primary-400: 240 200 120;
+  --color-primary-500: 214 167 94;   /* main muted mustard */
+  --color-primary-600: 180 140 80;
+  --color-primary-700: 145 112 65;
+  --color-primary-800: 110 85 50;
+  --color-primary-900: 80 60 35;
+  --color-primary-950: 50 35 20;     /* very dark accent */
+}
