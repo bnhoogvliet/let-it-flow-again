@@ -257,7 +257,7 @@
 
 
 
-&lt;div id=&#34;chart-457281693&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
+&lt;div id=&#34;chart-352981674&#34; class=&#34;chart&#34;&gt;&lt;/div&gt;
 &lt;script&gt;
   (function() {
     async function fetchChartJSON() {
@@ -275,7 +275,7 @@
 
       fetchChartJSON().then(chart =&gt; {
         console.debug(&#39;Plotting chart...&#39;)
-        window.Plotly.newPlot(&#39;chart-457281693&#39;, chart.data, chart.layout, {responsive: true});
+        window.Plotly.newPlot(&#39;chart-352981674&#39;, chart.data, chart.layout, {responsive: true});
       });
     }, 500 );
   })();
@@ -703,15 +703,6 @@ Maar u kunt er ook voor kiezen om dit vanuit uw eigen omgeving te doen via een o
 &lt;p&gt;Een losse ondersteuning voor bijvoorbeeld ontstoren van medicatie of vaccinaties, bodyscan, opschonen energie, uitmeten van voedingsmiddelen en dergelijke kost 50,-&lt;/p&gt;
 &lt;p&gt;Eventuele andere wensen zijn te bespreken en daar zal vooraf een prijsopgave voor komen.&lt;/p&gt;
 &lt;p&gt;Prijzen zijn inclusief btw&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Ervaringen</title>
-      <link>http://localhost:1313/ervaringen/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ervaringen/</guid>
-      <description>&lt;p&gt;Add your company privacy policy here&amp;hellip;&lt;/p&gt;
 </description>
     </item>
     

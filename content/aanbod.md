@@ -19,11 +19,11 @@ Maar u kunt er ook voor kiezen om dit vanuit uw eigen omgeving te doen via een o
 
 Een NEI sessie duur 75 tot 90 minuten
 
-Losse NEI sessie kost 140,-
+Losse NEI sessie kost 105,-
 
-Blok NEI sessie van 3 behandelingen kost 130,- per behandeling (vooraf 390,- te voldoen)
+Blok NEI sessie van 3 behandelingen kost 95,- per behandeling (vooraf 285,- te voldoen)
 
-Serie NEI sessies van 10 behandelingen kost 120,- per behandeling (vooraf 1200,- te voldoen en deze mag met 2 personen worden gebruikt)
+Serie NEI sessies van 5 behandelingen kost 90,- per behandeling (vooraf 450,- te voldoen.
 
 **Ondersteuning (30 minuten)**
 
@@ -39,11 +39,11 @@ Prijzen zijn inclusief btw
 
 Een NEI sessie duur 75 tot 90 minuten
 
-Losse NEI sessie kost 140,-
+Losse NEI sessie kost 105,-
 
-Blok NEI sessie van 3 behandelingen kost 130,- per behandeling (vooraf 390,- te voldoen)
+Blok NEI sessie van 3 behandelingen kost 95,- per behandeling (vooraf 285,- te voldoen)
 
-Serie NEI sessies van 10 behandelingen kost 120,- per behandeling (vooraf 1200,- te voldoen en deze mag met 2 verschillende dieren worden gebruikt)
+Serie NEI sessies van 5 behandelingen kost 90,- per behandeling (vooraf 450,- te voldoen.
 
 **Ondersteuning (30 minuten)**
 
