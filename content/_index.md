@@ -22,7 +22,7 @@ sections:
         color: "navy"
         image:
           # Add your image background to `assets/media/`.
-          filename: banner.png
+          filename: banner.jpg
           filters:
             brightness: 0.5
           size: cover
@@ -32,7 +32,7 @@ sections:
     content:
       text: |
         **Let it Flow again: NEI therapie voor mens en dier** 
-        
+
         Met Nei Therapie help ik je om je lichaam en geest te herstellen zodat je weer kunt leven vanuit je ware potentieel.
   - block: cta-card
     content:
