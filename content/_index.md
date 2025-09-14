@@ -30,7 +30,9 @@ sections:
           parallax: false
   - block: markdown
     content:
-      text: |        
+      text: |
+        **Let it Flow again: NEI therapie voor mens en dier** 
+        
         Met Nei Therapie help ik je om je lichaam en geest te herstellen zodat je weer kunt leven vanuit je ware potentieel.
   - block: cta-card
     content:

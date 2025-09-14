@@ -42,8 +42,12 @@ header:
 
 # Site footer
 footer:
+  block: minimal
   copyright:
     notice: '© {year} Let It Flow Again'
+  text: |
+    KVK: 98059386 • BTW: NL005318507B03  
+    Phone: +31 6 20338192 • Email: natasja@letitflowagain.nl
 
 # Localization
 locale:
