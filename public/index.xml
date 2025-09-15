@@ -44,24 +44,11 @@
     </item>
     
     <item>
-      <title>Aanbod</title>
-      <link>http://localhost:1313/aanbod/</link>
+      <title>Dier</title>
+      <link>http://localhost:1313/dier/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/aanbod/</guid>
-      <description>&lt;p&gt;Er zijn meerdere mogelijkheden voor een NEI sessie.&lt;/p&gt;
-&lt;p&gt;U kunt er voor kiezen om een afspraak te maken om bij mij thuis te komen voor een sessie.
-Maar u kunt er ook voor kiezen om dit vanuit uw eigen omgeving te doen via een online meeting met uw laptop of telefoon.&lt;/p&gt;
-&lt;h3 id=&#34;nei-voor-mensen&#34;&gt;NEI voor mensen&lt;/h3&gt;
-&lt;p&gt;Een NEI sessie duur 75 tot 90 minuten&lt;/p&gt;
-&lt;p&gt;Losse NEI sessie kost 105,-&lt;/p&gt;
-&lt;p&gt;Blok NEI sessie van 3 behandelingen kost 95,- per behandeling (vooraf 285,- te voldoen)&lt;/p&gt;
-&lt;p&gt;Serie NEI sessies van 5 behandelingen kost 90,- per behandeling (vooraf 450,- te voldoen.&lt;/p&gt;
-&lt;p&gt;&lt;strong&gt;Ondersteuning (30 minuten)&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;Een losse ondersteuning voor bijvoorbeeld ontstoren van medicatie of vaccinaties, bodyscan, opschonen energie, uitmeten van voedingsmiddelen en dergelijke kost 50,-&lt;/p&gt;
-&lt;p&gt;Eventuele andere wensen zijn te bespreken en daar zal vooraf een prijsopgave voor komen.&lt;/p&gt;
-&lt;p&gt;Prijzen zijn inclusief btw&lt;/p&gt;
-&lt;h3 id=&#34;nei-voor-dieren&#34;&gt;NEI voor dieren&lt;/h3&gt;
-&lt;p&gt;
+      <guid>http://localhost:1313/dier/</guid>
+      <description>&lt;p&gt;
 
 
 
@@ -89,10 +76,41 @@ Maar u kunt er ook voor kiezen om dit vanuit uw eigen omgeving te doen via een o
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
-&lt;p&gt;Een NEI sessie duur 75 tot 90 minuten&lt;/p&gt;
-&lt;p&gt;Losse NEI sessie kost 105,-&lt;/p&gt;
-&lt;p&gt;Blok NEI sessie van 3 behandelingen kost 95,- per behandeling (vooraf 285,- te voldoen)&lt;/p&gt;
-&lt;p&gt;Serie NEI sessies van 5 behandelingen kost 90,- per behandeling (vooraf 450,- te voldoen.&lt;/p&gt;
+&lt;p&gt;&amp;ldquo;intro&amp;rdquo;&lt;/p&gt;
+&lt;h2 id=&#34;nei-voor-dieren&#34;&gt;NEI voor dieren&lt;/h2&gt;
+&lt;p&gt;Een NEI-sessie duurt gemiddeld &lt;strong&gt;75 tot 90 minuten&lt;/strong&gt;.&lt;br&gt;
+Je hebt de keuze uit een losse sessie of een pakket van meerdere behandelingen tegen een gereduceerd tarief.&lt;/p&gt;
+&lt;h3 id=&#34;prijzen&#34;&gt;Prijzen&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Optie&lt;/th&gt;
+          &lt;th&gt;Duur / Aantal&lt;/th&gt;
+          &lt;th&gt;Prijs per sessie&lt;/th&gt;
+          &lt;th&gt;Totale prijs&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Losse NEI-sessie&lt;/td&gt;
+          &lt;td&gt;1 sessie&lt;/td&gt;
+          &lt;td&gt;€105,-&lt;/td&gt;
+          &lt;td&gt;€105,-&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Blok van 3 NEI-sessies&lt;/td&gt;
+          &lt;td&gt;3 sessies&lt;/td&gt;
+          &lt;td&gt;€95,-&lt;/td&gt;
+          &lt;td&gt;€285,- (vooraf)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Serie van 5 NEI-sessies&lt;/td&gt;
+          &lt;td&gt;5 sessies&lt;/td&gt;
+          &lt;td&gt;€90,-&lt;/td&gt;
+          &lt;td&gt;€450,- (vooraf)&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
 &lt;p&gt;&lt;strong&gt;Ondersteuning (30 minuten)&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Een losse ondersteuning voor bijvoorbeeld ontstoren van medicatie of vaccinaties, bodyscan, opschonen energie, uitmeten van voedingsmiddelen en dergelijke kost 50,-&lt;/p&gt;
 &lt;p&gt;Eventuele andere wensen zijn te bespreken en daar zal vooraf een prijsopgave voor komen.&lt;/p&gt;
@@ -101,11 +119,51 @@ Maar u kunt er ook voor kiezen om dit vanuit uw eigen omgeving te doen via een o
     </item>
     
     <item>
-      <title>Ervaringen</title>
-      <link>http://localhost:1313/ervaringen/</link>
+      <title>Mens</title>
+      <link>http://localhost:1313/mens/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/ervaringen/</guid>
-      <description>&lt;p&gt;Add your company privacy policy here&amp;hellip;&lt;/p&gt;
+      <guid>http://localhost:1313/mens/</guid>
+      <description>&lt;p&gt;Er zijn meerdere mogelijkheden voor een NEI sessie.&lt;/p&gt;
+&lt;p&gt;U kunt er voor kiezen om een afspraak te maken om bij mij thuis te komen voor een sessie.
+Maar u kunt er ook voor kiezen om dit vanuit uw eigen omgeving te doen via een online meeting met uw laptop of telefoon.&lt;/p&gt;
+&lt;h2 id=&#34;nei-sessies&#34;&gt;NEI Sessies&lt;/h2&gt;
+&lt;p&gt;Een NEI-sessie duurt gemiddeld &lt;strong&gt;75 tot 90 minuten&lt;/strong&gt;.&lt;br&gt;
+Je kunt kiezen voor een losse sessie of een voordeliger pakket met meerdere behandelingen.&lt;/p&gt;
+&lt;h3 id=&#34;prijzen&#34;&gt;Prijzen&lt;/h3&gt;
+&lt;table&gt;
+  &lt;thead&gt;
+      &lt;tr&gt;
+          &lt;th&gt;Optie&lt;/th&gt;
+          &lt;th&gt;Duur / Aantal&lt;/th&gt;
+          &lt;th&gt;Prijs per sessie&lt;/th&gt;
+          &lt;th&gt;Totale prijs&lt;/th&gt;
+      &lt;/tr&gt;
+  &lt;/thead&gt;
+  &lt;tbody&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Losse NEI-sessie&lt;/td&gt;
+          &lt;td&gt;1 sessie&lt;/td&gt;
+          &lt;td&gt;€105,-&lt;/td&gt;
+          &lt;td&gt;€105,-&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Blok van 3 NEI-sessies&lt;/td&gt;
+          &lt;td&gt;3 sessies&lt;/td&gt;
+          &lt;td&gt;€95,-&lt;/td&gt;
+          &lt;td&gt;€285,- (vooraf)&lt;/td&gt;
+      &lt;/tr&gt;
+      &lt;tr&gt;
+          &lt;td&gt;Serie van 5 NEI-sessies&lt;/td&gt;
+          &lt;td&gt;5 sessies&lt;/td&gt;
+          &lt;td&gt;€90,-&lt;/td&gt;
+          &lt;td&gt;€450,- (vooraf)&lt;/td&gt;
+      &lt;/tr&gt;
+  &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;p&gt;&lt;strong&gt;Ondersteuning (30 minuten)&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Een losse ondersteuning voor bijvoorbeeld ontstoren van medicatie of vaccinaties, bodyscan, opschonen energie, uitmeten van voedingsmiddelen en dergelijke kost 50,-&lt;/p&gt;
+&lt;p&gt;Eventuele andere wensen zijn te bespreken en daar zal vooraf een prijsopgave voor komen.&lt;/p&gt;
+&lt;p&gt;Prijzen zijn inclusief btw&lt;/p&gt;
 </description>
     </item>
     
@@ -132,7 +190,14 @@ Maar u kunt er ook voor kiezen om dit vanuit uw eigen omgeving te doen via een o
 
 &lt;figure  &gt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
-    &lt;div class=&#34;w-full&#34; &gt;&lt;img src=&#34;heide.jpeg&#34; alt=&#34;screen reader text&#34; loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
+    &lt;div class=&#34;w-full&#34; &gt;
+          &lt;img alt=&#34;screen reader text&#34; 
+               srcset=&#34;http://localhost:1313/media/heide_hu_6eedb1695e6e560f.webp 320w, http://localhost:1313/media/heide_hu_77125d59083f5309.webp 480w, http://localhost:1313/media/heide_hu_26511da72e7d9737.webp 760w&#34;
+               sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
+               src=&#34;http://localhost:1313/media/heide_hu_6eedb1695e6e560f.webp&#34;
+               width=&#34;760&#34;
+               height=&#34;571&#34;
+               loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
 &lt;h2 id=&#34;wat-is-nei-therapie&#34;&gt;Wat is NEI-therapie?&lt;/h2&gt;

@@ -8,10 +8,18 @@ main:
     weight: 10
   - name: Wie ben ik
     url: /wie-ben-ik
-    weight: 20   
+    weight: 20
   - name: Aanbod
     weight: 30
     url: /aanbod
+  - name: Mens
+    parent: Aanbod
+    weight: 10
+    url: /mens
+  - name: Dier
+    parent: Aanbod
+    weight: 20
+    url: /dier    
   - name: Ervaringen
     url: /ervaringen
     weight: 40

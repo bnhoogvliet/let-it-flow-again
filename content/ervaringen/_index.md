@@ -14,7 +14,7 @@ sections:
     content:
       title: "Ervaringen van mensen"
       items:
-        - name: "Mel"
+        - name: "Melanie Vis"
           text: |
             Ieder mens verdient het om lekker in zijn of haar vel te zitten, zowel fysiek als mentaal. Maar dat gaat niet altijd vanzelf – ook bij mij niet. Vanuit nieuwsgierigheid kwam ik via Natasja in contact met NEI-therapie om erachter te komen of het iets voor me zou zijn. Want je kunt en hoeft tenslotte niet alles in het leven alleen te doen.
 

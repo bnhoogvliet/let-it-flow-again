@@ -10,7 +10,7 @@ editable: false
 pager: false
 ---
 
-![screen reader text](heide.jpeg)
+![screen reader text](heide.jpg)
 
 ## Wat is NEI-therapie?
 

@@ -31,7 +31,11 @@ sections:
   - block: markdown
     content:
       text: |
-        **Let it Flow again: NEI therapie voor mens en dier** 
+        # NEI therapie voor mens en dier
+
+        NEI staat voor Neuro Emotionele Integratie en combineert inzichten uit zowel de Westerse als Oosterse gezondheidsleer. Denk aan elementen uit de psychologie, acupunctuur en neurologie. 
+        
+        Deze methode helpt om op een milde manier emotionele spanningen, fysieke klachten en onverwerkte ervaringen los te laten — zonder langdurige gesprekken of het herbeleven van pijnlijke gebeurtenissen.
 
         Met Nei Therapie help ik je om je lichaam en geest te herstellen zodat je weer kunt leven vanuit je ware potentieel.
   - block: cta-card
