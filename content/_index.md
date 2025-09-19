@@ -1,5 +1,5 @@
 ---
-title: Welkom
+title: Ontdek NEI-therapie
 date: 2023-10-24
 type: landing
 
@@ -31,10 +31,9 @@ sections:
   - block: markdown
     content:
       text: |
-        # NEI-therapie
-        ## Zachte en effectieve ondersteuning bij emotionele en lichamelijke klachten
+        ## Ontdek NEI-therapie
 
-        Voel je dat er iets wringt, maar kun je er geen vinger op leggen? NEI helpt je naar de kern.
+        <p>Voel je dat er iets wringt, maar kun je er geen vinger op leggen? NEI-therapie helpt je naar de kern.</p>
 
         * Voor mensen die voelen dat praten alleen niet genoeg is.
         * Voor wie lichamelijke klachten ervaart zonder dat er een duidelijke oorzaak is te vinden.
@@ -43,7 +42,7 @@ sections:
         * Voor ouders die merken dat hun kind niet lekker in z’n vel zit.
         * Voor wie klaar is om oude ballast los te laten.
 
-         Nieuwsgierig wat NEI voor jou kan doen? Ik help je graag.
+         <p>Nieuwsgierig wat NEI voor jou kan doen? Ik help je graag.</p>
   - block: cta-card
     content:
       text: "Benieuwd hoe NEI-therapie jou kan helpen? Neem contact op!"
