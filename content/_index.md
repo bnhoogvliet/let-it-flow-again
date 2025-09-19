@@ -31,13 +31,19 @@ sections:
   - block: markdown
     content:
       text: |
-        # NEI therapie voor mens en dier
+        # NEI-therapie
+        ## Zachte en effectieve ondersteuning bij emotionele en lichamelijke klachten
 
-        NEI staat voor Neuro Emotionele Integratie en combineert inzichten uit zowel de Westerse als Oosterse gezondheidsleer. Denk aan elementen uit de psychologie, acupunctuur en neurologie. 
-        
-        Deze methode helpt om op een milde manier emotionele spanningen, fysieke klachten en onverwerkte ervaringen los te laten — zonder langdurige gesprekken of het herbeleven van pijnlijke gebeurtenissen.
+        Voel je dat er iets wringt, maar kun je er geen vinger op leggen? NEI helpt je naar de kern.
 
-        Met Nei Therapie help ik je om je lichaam en geest te herstellen zodat je weer kunt leven vanuit je ware potentieel.
+        * Voor mensen die voelen dat praten alleen niet genoeg is.
+        * Voor wie lichamelijke klachten ervaart zonder dat er een duidelijke oorzaak is te vinden.
+        * Voor wie vastloopt in werk, relaties of zichzelf in herhalende patronen en wil begrijpen waarom.
+        * Voor wie zichzelf beter wil leren kennen, van binnenuit.
+        * Voor ouders die merken dat hun kind niet lekker in z’n vel zit.
+        * Voor wie klaar is om oude ballast los te laten.
+
+         Nieuwsgierig wat NEI voor jou kan doen? Ik help je graag.
   - block: cta-card
     content:
       text: "Benieuwd hoe NEI-therapie jou kan helpen? Neem contact op!"

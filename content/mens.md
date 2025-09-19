@@ -34,5 +34,5 @@ Een losse ondersteuning voor bijvoorbeeld ontstoren van medicatie of vaccinaties
 
 Eventuele andere wensen zijn te bespreken en daar zal vooraf een prijsopgave voor komen.
 
-Prijzen zijn inclusief btw
+Prijzen zijn inclusief btw.
 

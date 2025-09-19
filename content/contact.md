@@ -15,11 +15,9 @@ share: false
 
 **Natasja Hoogvliet-Haandrikman**
 
-**Locatie:** Denekamp
-
+**Locatie:** Denekamp <br>
 *Neem contact op voor de adresgegevens*
 
-**Telefoonnummer:** +31 6 20338192
-
-**Email:** natasja@letitflow.nl
+**Telefoonnummer:** +31 6 20338192 <br>
+**Email:** [natasja@letitflow.nl](mailto:natasja@letitflow.nl)  
 

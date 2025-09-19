@@ -39,7 +39,7 @@ Door het loslaten van emotionele ballast ontstaat er ruimte: in je lijf, je hoof
 
 NEI is niet alleen geschikt om klachten op te lossen, maar ook als preventieve ondersteuning. Door blokkades op tijd aan te pakken, voorkom je dat deze zich opstapelen en op termijn tot grotere problemen leiden. Regelmatige sessies kunnen helpen om gezond en in balans te blijven — zowel nu als in de toekomst.
 
-## Werkt ook door op je gezin
+## Blokkades oplossen kan ook positief doorwerking hebben in je gezin. 
 
 Een bijzonder aspect van deze therapie is dat het effect niet alleen bij jou merkbaar is. Als ouder geef je namelijk energetisch veel door aan je kind(eren). Zodra jij emotionele ballast loslaat, werkt dat ook door op jouw gezinssysteem. Dat maakt het een krachtige investering, niet alleen in jezelf, maar ook in de generaties na jou.
 
