@@ -1,6 +1,5 @@
 ---
 title: Contact
-date: 2023-12-01
 share: false
 hide_date: true
 show_date_updated: false
@@ -19,5 +18,5 @@ share: false
 *Neem contact op voor de adresgegevens*
 
 **Telefoonnummer:** +31 6 20338192 <br>
-**Email:** [natasja@letitflow.nl](mailto:natasja@letitflow.nl)  
+**Email:** [natasja@letitflowagain.nl](mailto:natasja@letitflowagain.nl)  
 

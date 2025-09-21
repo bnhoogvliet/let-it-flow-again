@@ -47,7 +47,10 @@ footer:
     notice: '© {year} Let It Flow Again'
   text: |
     KVK: 98059386 • BTW: NL005318507B03  
-    Phone: +31 6 20338192 • Email: natasja@letitflowagain.nl
+    Phone: +31 6 20338192 • Email: natasja@letitflowagain.nl <br>
+    <br>
+    [![Lid van vereniging van NEI therapeuten](logonei.png)](https://vvnt.nl/)
+
 
 # Localization
 locale:

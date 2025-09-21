@@ -59,3 +59,11 @@ Eerlijk gezegd stond ik er eerst wat sceptisch in. NEI… ik dacht: dat zal wel 
 Na de eerste sessie merkte ik al dat er iets gebeurde. Het was geen magie, maar het voelde alsof er wat rust kwam. Na een paar sessies voelde ik me helderder, meer ontspannen en vooral: meer in contact met mezelf.
 
 Wat me verbaasde, is dat het zo praktisch voelde. Geen lange gesprekken of ‘emotioneel gedoe’, maar wel precies bij de kern. Ik had dit veel eerder moeten doen.
+
+### Nicole
+Vanuit mijzelf ben ik een onderzoekend en ook kritisch persoon, maar ook een nadenker. Dat zorgt ervoor dat ik veel in mijn hoofd zit. De NEI-sessie heeft mij enorm verrast. Natasja heeft mijn blokkades via NEI gedeblokkeerd, waardoor ik veel meer rust in mijn hoofd ervaar.
+
+Haar werkwijze is professioneel,  betrokken en diepgaand, maar ook met een vleugje humor.
+
+Ik voelde mij gehoord en gezien, ook het onderbewuste gedeelte in mij.
+Kortom een bijzondere en fijne ervaring die zeker voor herhaling vatbaar is!
