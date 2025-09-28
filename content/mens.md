@@ -17,8 +17,8 @@ Maar u kunt er ook voor kiezen om dit vanuit uw eigen omgeving te doen via een o
 
 ## NEI Sessies
 
-<p>Een NEI-sessie duurt gemiddeld **75 tot 90 minuten**.  
-Je kunt kiezen voor een losse sessie of een voordeliger pakket met meerdere behandelingen.</p>
+Een NEI-sessie duurt gemiddeld **75 tot 90 minuten**.
+Je kunt kiezen voor een losse sessie of een voordeliger pakket met meerdere behandelingen.
 
 ### Prijzen
 
