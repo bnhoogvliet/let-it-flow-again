@@ -12,7 +12,7 @@ pager: false
 
 ![screen reader text](paarden.jpeg)
  
-<p>Dieren voelen veel. Ze zijn gevoelig, intuïtief en vaak sterker verbonden met hun omgeving dan wij soms doorhebben. Maar wat als je dier ineens ander gedrag laat zien? Zich terugtrekt, onrustig is, lichamelijke klachten ontwikkelt of simpelweg ‘niet zichzelf’ lijkt te zijn?</p>
+<p>Dieren voelen veel aan. Ze zijn gevoelig, intuïtief en vaak sterker verbonden met hun omgeving dan wij soms doorhebben. Maar wat als je dier ineens ander gedrag laat zien? Zich terugtrekt, onrustig is, lichamelijke klachten ontwikkelt of simpelweg ‘niet zichzelf’ lijkt te zijn?</p>
 
 <p>Net als bij mensen kunnen emoties, ervaringen of spanningen bij dieren vast gaan zitten in het systeem. En net als bij mensen, kan NEI helpen om deze blokkades op te sporen én los te laten.</p>
 
@@ -24,11 +24,11 @@ pager: false
 * Kan helpen bij trauma’s, verhuizingen, verlies of nieuwe situaties
 * Versterkt de band tussen jou en je dier
 
-<p>Je hoeft niet precies te weten wat er aan de hand is. Als jij voelt dat er ‘iets’ niet klopt, dan is dat al reden genoeg om te kijken wat er wél klopt. Ik help je daar graag bij — met aandacht, respect en vertrouwen.</p>
+<p>Je hoeft niet precies te weten wat er aan de hand is. Als jij voelt dat er ‘iets’ niet klopt, dan is dat al reden genoeg om actie te ondernemen. Ik help je daar graag bij — met aandacht, respect en vertrouwen.</p>
 
 ## NEI Sessies
-<p>Een NEI-sessie duurt gemiddeld **75 tot 90 minuten**.  
-Je hebt de keuze uit een losse sessie of een pakket van meerdere behandelingen tegen een gereduceerd tarief.</p>
+Een NEI-sessie duurt gemiddeld **75 tot 90 minuten**.  
+Je hebt de keuze uit een losse sessie of een pakket van meerdere behandelingen tegen een gereduceerd tarief.
 
 ### Prijzen
 
