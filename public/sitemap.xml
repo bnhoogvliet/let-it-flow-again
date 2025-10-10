@@ -12,8 +12,6 @@
   <url>
     <loc>http://localhost:1313/contact/</loc><changefreq>weekly</changefreq></url>
   <url>
-    <loc>http://localhost:1313/dier/</loc><changefreq>weekly</changefreq></url>
-  <url>
     <loc>http://localhost:1313/ervaringen/</loc><changefreq>weekly</changefreq></url>
   <url>
     <loc>http://localhost:1313/mens/</loc><changefreq>weekly</changefreq></url>
