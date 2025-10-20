@@ -26,3 +26,7 @@ button:hover {
     background-color: #C9745D; /* Terracotta */
     color: #F5F0E6; /* Light text for contrast */
 }
+
+.site-footer, .footer, footer {
+  text-align: center;
+}

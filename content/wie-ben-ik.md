@@ -10,6 +10,8 @@ editable: false
 pager: false
 ---
 
+## Natasja Hoogvliet-Haandrikman
+
 ![screen reader text](natasja.jpeg)
 
 <p>Ik ben geboren in 1970 en werd een vrolijk en bescheiden meisje met een grote liefde voor dieren. Ik was altijd het kind dat zich met gemak omringde met dieren en vooral de paarden trokken mij als een magneet aan. Deze liefde voor paarden groeide zo groot dat ik mij uiteindelijk ontwikkelde tot een dressuuramazone op subtopniveau, instructrice en hippisch docent. Met veel plezier heb ik jongeren en volwassenen begeleid in hun paarden passie, altijd op zoek naar de diepere lagen van wat hen drijft en hoe ik hen verder kon helpen.</p>
