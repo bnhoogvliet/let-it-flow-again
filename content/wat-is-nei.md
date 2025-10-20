@@ -56,3 +56,4 @@ Op de lange termijn kunnen deze onverwerkte emoties leiden tot fysieke klachten,
 - Taalachterstand bij kinderen
 
 
+*NEI-therapie is bedoeld als ondersteuning en biedt inzicht in emotionele processen. Het is geen vervanging voor medische zorg en er worden geen diagnoses gesteld. Bij lichamelijke of psychische klachten adviseren we om altijd een (huis)arts of medisch specialist te raadplegen. Je blijft als cliënt zelf verantwoordelijk voor de keuzes die je maakt op basis van de sessies.*
