@@ -15,7 +15,11 @@ main:
   - name: Mens
     parent: Aanbod
     weight: 10
-    url: /mens 
+    url: /mens
+  - name: Dier
+    parent: Aanbod
+    weight: 20
+    url: /dier    
   - name: Ervaringen
     url: /ervaringen
     weight: 40

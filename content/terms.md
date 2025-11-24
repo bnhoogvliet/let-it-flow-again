@@ -8,7 +8,6 @@ commentable: false
 show_related: false
 editable: false
 pager: false
-share: false
 ---
 
 ## ALGEMENE VOORWAARDEN Natasja Hoogvliet -Therapeut
