@@ -19,14 +19,14 @@ In mijn werk richt ik mij uitsluitend op het **energetisch en psychosociaal welz
 <p>Mijn begeleiding staat volledig in dienst van het welzijn van jouw dier.
 Mijn werkwijze is helder, transparant en volledig afgestemd op het individu.</p>
 
-<p>Hieronder lees je de officiële toelichting op mijn werkwijze en de kaders waarbinnen ik werk. Zo kun je met vertrouwen besluiten of NEI een passende aanvulling kan zijn voor jouw dier.</p>
+<p>Hieronder lees je de officiële toelichting op mijn werkwijze en de kaders waarbinnen ik werk. Zo kun je met vertrouwen besluiten of dit een passende aanvulling kan zijn voor jouw dier.</p>
 
 Voor meer informatie of het maken van een afspraak kun je contact opnemen via de mail, telefoon of whatsapp.</p>
 
 
-## Rechtmatigheidsverklaring – NEI Therapie bij Dieren
+## Rechtmatigheidsverklaring
 
-Als NEI-therapeut werk ik uitsluitend op het gebied van **energetisch welzijn** en het psychosociaal gedrag van dieren. Mijn behandelingen zijn gericht op het bevorderen van de innerlijke balans en het zelf herstellend vermogen van het dier.
+Ik werk uitsluitend op het gebied van **energetisch welzijn** en het psychosociaal gedrag van dieren. Mijn ondersteuning is gericht op het bevorderen van de innerlijke balans en het zelf herstellend vermogen van het dier.
 
 **Wat ik niet doe**
 * Ik stel **geen diagnoses**.
@@ -36,7 +36,7 @@ Als NEI-therapeut werk ik uitsluitend op het gebied van **energetisch welzijn** 
 
 **Werkwijze en verantwoordelijkheid**
 
-Alle behandelingen vinden uitsluitend plaats met toestemming van de eigenaar en met volledige transparantie over de aard en beperkingen van de therapie.
+Alle ondersteuningen vinden uitsluitend plaats met toestemming van de eigenaar en met volledige transparantie over de aard en beperkingen van ondersteuningen.
 
 Bij twijfel of bij medische klachten verwijs ik altijd door naar een bevoegd dierenarts.
 
