@@ -30,3 +30,13 @@ button:hover {
 .site-footer, .footer, footer {
   text-align: center;
 }
+
+.cta-bg .bg-black {
+  background-color: #D7C5AF !important;
+}
+
+.cta-bg .text-gray-100{
+    color: #000000; /* zwarte tekst */
+}
+
+

@@ -28,6 +28,23 @@ sections:
           size: cover
           position: center
           parallax: false
+  - block: cta-card
+    content:
+      title: 
+      text: |
+        ## 🎄 Een cadeau van rust en aandacht
+
+        <p> Geef een cadeau dat het verschil maakt, geef iemand een moment om op adem te komen.
+        Met een NEI-behandeling schenk je geen spullen, maar rust, helderheid en een zachte reset. Een cadeau dat fluistert: “Je verdient dit. Zorg goed voor jezelf.” </p>
+
+        Licht, lief en vol aandacht precies wat iemand soms nodig heeft.
+
+        Een klein gebaar met grote impact. 💛
+        Mail of app voor de mogelijkheden
+    design:
+      css_class: "cta-bg"
+      spacing:
+        padding: ["6", "6", "6", "6"]         
   - block: markdown
     content:
       text: |
@@ -45,11 +62,13 @@ sections:
          <p>Nieuwsgierig wat NEI voor jou kan doen? Ik help je graag.</p>
   - block: cta-card
     content:
-      text: "Benieuwd hoe NEI-therapie jou kan helpen? Neem contact op!"
+      text: |
+        **Benieuwd hoe NEI-therapie jou kan helpen? Neem contact op!**
       button:
         text: "Contact"
         url: /contact
     design:
+      css_class: "cta-bg"
       background:
         text_color_light: true
       spacing:

@@ -62,6 +62,7 @@
       "border-transparent",
       "break-words",
       "container",
+      "cta-bg",
       "cursor-pointer",
       "dark",
       "dark:bg-hb-dark",
@@ -247,6 +248,7 @@
       "z-[9999]"
     ],
     "ids": [
+      "-een-cadeau-van-rust-en-aandacht",
       "algemene-voorwaarden-natasja-hoogvliet--therapeut",
       "blokkades-oplossen-kan-ook-positief-effect-hebben-in-je-gezin",
       "een-zachte-ondersteuning-voor-emotionele-balans",
@@ -270,7 +272,6 @@
       "prijzen",
       "privacyverklaring",
       "rechtmatigheidsverklaring",
-      "rechtmatigheidsverklaring--nei-therapie-bij-dieren",
       "samantha",
       "section-cta-card",
       "section-hero",
