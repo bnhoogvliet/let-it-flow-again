@@ -10,29 +10,65 @@ editable: false
 pager: false
 ---
 
-Er zijn meerdere mogelijkheden voor een NEI sessie.
+## NEI-sessies Bewustwording, heling en innerlijke balans
+NEI-therapie helpt je om onbewuste blokkades, emotionele patronen, trauma’s en opgeslagen stress zichtbaar te maken en los te laten. Dit kan zowel op locatie als online plaatsvinden.
 
-<p>U kunt er voor kiezen om een afspraak te maken om bij mij thuis te komen voor een sessie.
-Maar u kunt er ook voor kiezen om dit vanuit uw eigen omgeving te doen via een online meeting met uw laptop of telefoon.</p>
+Om je systeem voldoende tijd te geven om te integreren, adviseer ik **minimaal 3 weken tussen de NEI-sessies in**.
 
-## NEI Sessies
+Alle sessies vinden plaats **op afspraak**.
 
-Een NEI-sessie duurt gemiddeld **75 tot 90 minuten**.
-Je kunt kiezen voor een losse sessie of een voordeliger pakket met meerdere behandelingen.
+---
 
-### Prijzen
+### Kennismakingssessie Inzicht en ervaren
+**NEI-sessie (75–90 minuten)  €149,-**
 
-| Optie                          | Duur / Aantal | Prijs per sessie | Totale prijs   |
-|--------------------------------|---------------|------------------|----------------|
-| Losse NEI-sessie               | 1 sessie      | €105,-           | €105,-         |
-| Blok van 3 NEI-sessies         | 3 sessies     | €95,-            | €285,- (vooraf)|
-| Serie van 5 NEI-sessies        | 5 sessies     | €90,-            | €450,- (vooraf)|
+Deze sessie is geschikt als je wilt kennismaken met NEI of een eerste stap wilt zetten bij een specifieke hulpvraag.
 
-**Ondersteuning (30 minuten)**
+**Wat je kunt verwachten:**
 
-<p>Een losse ondersteuning voor bijvoorbeeld ontstoren van medicatie of vaccinaties, bodyscan, opschonen energie, uitmeten van voedingsmiddelen en dergelijke kost 50,-</p>
+* Intake en heldere formulering van je hulpvraag
+* Eén volledige NEI-sessie
+* Persoonlijk advies en praktische nazorgtips
 
-<p>Eventuele andere wensen zijn te bespreken en daar zal vooraf een prijsopgave voor komen.</p>
+---
 
-Prijzen zijn inclusief btw.
+###  Startpakket Bewustwording & verandering
+**€650,-**
 
+Dit pakket is geschikt als je merkt dat er meer speelt dan één thema en je gericht wilt werken aan bewustwording en verandering.
+
+**Inclusief:**
+
+* 3 NEI-sessies
+* 2 telefonisch check-in moment (20 minuten)
+* 1 tussentijds energetisch onderhoud op afstand (indien gewenst)
+
+---
+
+### Verdiepingspakket Innerlijke Reset
+**€999,-**
+
+Voor wie dieper wil werken aan terugkerende patronen, emotionele ballast en innerlijke onrust.
+
+**Inclusief:**
+
+* 5 NEI-sessies
+* 2 telefonische coachingmomenten (20 minuten per keer)
+* 2 keer energetisch onderhoud op afstand (indien gewenst)
+
+---
+
+### Transformatietraject Diepe heling & verankeren
+**€1.550,-**
+
+Dit traject is bedoeld voor mensen die bereid zijn om een diepgaand proces aan te gaan gericht op structurele verandering, emotionele stabiliteit en innerlijke rust.
+
+**Inclusief:**
+
+* 8 NEI-sessies
+* 4 telefonische coachingmomenten (20 minuten per keer)
+* 2 keer energetisch onderhoud op afstand (indien gewenst)
+
+---
+
+*Alle bedragen zijn **inclusief btw**.*
