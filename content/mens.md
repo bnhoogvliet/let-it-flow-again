@@ -41,7 +41,7 @@ Dit pakket is geschikt als je merkt dat er meer speelt dan één thema en je ger
 
 * 3 NEI-sessies
 * 2 telefonisch check-in moment (20 minuten)
-* 1 tussentijds energetisch onderhoud op afstand (indien gewenst)
+* 1 tussentijds energetisch onderhoud op afstand (indien gewenst) [^footnote]
 
 ---
 
@@ -54,7 +54,7 @@ Voor wie dieper wil werken aan terugkerende patronen, emotionele ballast en inne
 
 * 5 NEI-sessies
 * 2 telefonische coachingmomenten (20 minuten per keer)
-* 2 keer energetisch onderhoud op afstand (indien gewenst)
+* 2 keer energetisch onderhoud op afstand (indien gewenst) [^footnote]
 
 ---
 
@@ -67,8 +67,10 @@ Dit traject is bedoeld voor mensen die bereid zijn om een diepgaand proces aan t
 
 * 8 NEI-sessies
 * 4 telefonische coachingmomenten (20 minuten per keer)
-* 2 keer energetisch onderhoud op afstand (indien gewenst)
+* 2 keer energetisch onderhoud op afstand (indien gewenst) [^footnote]
 
 ---
-
 *Alle bedragen zijn **inclusief btw**.*
+
+
+[^footnote]: *Energetisch onderhoud kan bestaan uit een bodyscan, controle van vitaminen en mineralen, het bekijken van voedingsverdraagzaamheid, het versterken van de energetische draagkracht en/of het energetisch reinigen van het huis.*
