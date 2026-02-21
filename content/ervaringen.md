@@ -44,6 +44,15 @@ Ik vind het zo bijzonder hoe Natasja dit doet: vriendelijk, open, eerlijk en met
 
 Bedankt Natas! ❤️
 
+### Nicole
+Ik had veel innerlijke spanning, kon me moeilijk echt ontspannen. Had het gevoel altijd aan te staan en datik het voor iedereen goed moest doen. Ook gevoel van onzekerheid bekroop me vaak, ook bij het paardrijden, wat ik juist zo fantastisch vind om te doen.
+
+Ik heb een aantal sessies bij Natasja gedaan en we kwamen bij veel dingen al meteen "to the point".
+
+Vooraf had ik geen idee hoe zo'n sessie zou gaan maar Natasja werkt op een rustige, professionele manier en neemt alle tijd die nodig is op dat moment. Na een behandeling merkte ik duidelijk meer kalmte, innerlijke rust en een positieve verandering in mijn gevoel. 
+
+Het heeft me echt goed gedaan en ik kan het zeker iedereen aanraden.
+
 
 ### Lenie
 Ik ben 86 en had al langere tijd last van vermoeidheid en allerlei lichamelijke klachten. Natuurlijk niet zo heel gek gezien mijn leeftijd dat maar dan nog. En wat mij misschien nog het meest dwarszat, was dat ik me niet meer echt blij voelde. Alsof er iets in mij ‘uit’ stond.
