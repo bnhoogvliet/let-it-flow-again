@@ -43,6 +43,8 @@ sections:
         * Voor wie klaar is om oude ballast los te laten.
 
          <p>Nieuwsgierig wat NEI voor jou kan doen? Ik help je graag.</p>
+         {{< button url="/afspraak/" text="Plan direct een afspraak in!" >}}
+
   - block: cta-card
     content:
       text: |

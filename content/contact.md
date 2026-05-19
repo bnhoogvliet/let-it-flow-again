@@ -17,5 +17,7 @@ pager: false
 *Neem contact op voor de adresgegevens*
 
 **Telefoonnummer:** +31 6 20338192 <br>
-**Email:** [natasja@letitflowagain.nl](mailto:natasja@letitflowagain.nl)  
+**Email:** [natasja@letitflowagain.nl](mailto:natasja@letitflowagain.nl)
+
+{{< button url="/afspraak/" text="Plan direct een afspraak in!" >}}
 
