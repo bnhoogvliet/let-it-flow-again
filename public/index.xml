@@ -7,7 +7,7 @@
     <description>Ontdek NEI-therapie</description>
     <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>nl</language><lastBuildDate>Tue, 24 Oct 2023 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>http://localhost:1313/media/logo_hu_422d539970ce1d75.png</url>
+      <url>http://localhost:1313/media/logo_hu_3d2e37b11d8ef115.png</url>
       <title>Ontdek NEI-therapie</title>
       <link>http://localhost:1313/</link>
     </image>
@@ -208,9 +208,9 @@
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;screen reader text&#34; 
-               srcset=&#34;http://localhost:1313/media/paarden_hu_8f19cb86d4793053.webp 320w, http://localhost:1313/media/paarden_hu_4c877650ad76d045.webp 480w, http://localhost:1313/media/paarden_hu_7a4cdbb8a0124ba8.webp 760w&#34;
+               srcset=&#34;http://localhost:1313/media/paarden_hu_841c6e082ec78c70.webp 320w, http://localhost:1313/media/paarden_hu_edfd807d01244d43.webp 480w, http://localhost:1313/media/paarden_hu_18dfa8b5ed2be67f.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/media/paarden_hu_8f19cb86d4793053.webp&#34;
+               src=&#34;http://localhost:1313/media/paarden_hu_841c6e082ec78c70.webp&#34;
                width=&#34;760&#34;
                height=&#34;490&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -409,9 +409,9 @@ Kortom een bijzondere en fijne ervaring die zeker voor herhaling vatbaar is!&lt;
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;screen reader text&#34; 
-               srcset=&#34;http://localhost:1313/media/heide_hu_8b69b0c198cc1bd6.webp 320w, http://localhost:1313/media/heide_hu_adbf8d3697b8c1e6.webp 480w, http://localhost:1313/media/heide_hu_ffc6873809ec3b8d.webp 760w&#34;
+               srcset=&#34;http://localhost:1313/media/heide_hu_b469bb0c551d5da7.webp 320w, http://localhost:1313/media/heide_hu_ad642fe61ae00685.webp 480w, http://localhost:1313/media/heide_hu_b865139198120ef.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/media/heide_hu_8b69b0c198cc1bd6.webp&#34;
+               src=&#34;http://localhost:1313/media/heide_hu_b469bb0c551d5da7.webp&#34;
                width=&#34;760&#34;
                height=&#34;571&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
@@ -476,11 +476,11 @@ Op de lange termijn kunnen deze onverwerkte emoties leiden tot fysieke klachten,
   &lt;div class=&#34;flex justify-center	&#34;&gt;
     &lt;div class=&#34;w-full&#34; &gt;
           &lt;img alt=&#34;screen reader text&#34; 
-               srcset=&#34;http://localhost:1313/media/natasja_hu_1a70f2a553daf50b.webp 320w, http://localhost:1313/media/natasja_hu_c9e35eb4ad5d3e4d.webp 480w, http://localhost:1313/media/natasja_hu_3c2d19e7cdf616a4.webp 760w&#34;
+               srcset=&#34;http://localhost:1313/media/natasja-update_hu_74441b27051ff53b.webp 320w, http://localhost:1313/media/natasja-update_hu_de67b01c9c9e7442.webp 480w, http://localhost:1313/media/natasja-update_hu_349777d42b337ce9.webp 760w&#34;
                sizes=&#34;(max-width: 480px) 100vw, (max-width: 768px) 90vw, (max-width: 1024px) 80vw, 760px&#34;
-               src=&#34;http://localhost:1313/media/natasja_hu_1a70f2a553daf50b.webp&#34;
+               src=&#34;http://localhost:1313/media/natasja-update_hu_74441b27051ff53b.webp&#34;
                width=&#34;760&#34;
-               height=&#34;570&#34;
+               height=&#34;507&#34;
                loading=&#34;lazy&#34; data-zoomable /&gt;&lt;/div&gt;
   &lt;/div&gt;&lt;/figure&gt;
 &lt;/p&gt;
