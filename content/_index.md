@@ -31,6 +31,10 @@ sections:
   - block: markdown
     content:
       text: |
+
+        ## Nieuw: Energetische Wandeling
+        ![screen reader text](wandeling.jpeg)
+
         ## Ontdek NEI-therapie
 
         <p>Voel je dat er iets wringt, maar kun je er geen vinger op leggen? NEI-therapie helpt je naar de kern.</p>
